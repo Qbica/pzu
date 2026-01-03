@@ -1,0 +1,7 @@
+{
+  "name": "Protokół Oględzin PZU v5.7",
+  "description": "Profesjonalna aplikacja mobilna do sporządzania protokołów oględzin pojazdów, zawierająca interaktywną mapę pomiarów lakieru oraz cyfrowy podpis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

@@ -1,0 +1,18 @@
+
+{
+  "short_name": "PZU Protokół",
+  "name": "Protokół Oględzin PZU v5.7",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3144/3144456.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1e3a8a",
+  "background_color": "#ffffff",
+  "orientation": "portrait"
+}
